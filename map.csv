@@ -1,0 +1,463 @@
+AIR,0,minecraft:air,Air
+STONE,1,minecraft:stone,null
+GRASS,2,minecraft:grass,Grass Block
+DIRT,3,minecraft:dirt,Dirt
+COBBLESTONE,4,minecraft:cobblestone,Cobblestone
+WOOD,5,minecraft:planks,Wooden Planks
+SAPLING,6,minecraft:sapling,null
+BEDROCK,7,minecraft:bedrock,Bedrock
+WATER,8,minecraft:flowing_water,Water
+STATIONARY_WATER,9,minecraft:water,Water
+LAVA,10,minecraft:flowing_lava,Lava
+STATIONARY_LAVA,11,minecraft:lava,Lava
+SAND,12,minecraft:sand,Sand
+GRAVEL,13,minecraft:gravel,Gravel
+GOLD_ORE,14,minecraft:gold_ore,Gold Ore
+IRON_ORE,15,minecraft:iron_ore,Iron Ore
+COAL_ORE,16,minecraft:coal_ore,Coal Ore
+LOG,17,minecraft:log,Wood
+LEAVES,18,minecraft:leaves,Leaves
+SPONGE,19,minecraft:sponge,null
+GLASS,20,minecraft:glass,Glass
+LAPIS_ORE,21,minecraft:lapis_ore,Lapis Lazuli Ore
+LAPIS_BLOCK,22,minecraft:lapis_block,Lapis Lazuli Block
+DISPENSER,23,minecraft:dispenser,Dispenser
+SANDSTONE,24,minecraft:sandstone,Sandstone
+NOTE_BLOCK,25,minecraft:noteblock,Note Block
+BED_BLOCK,26,minecraft:bed,Bed
+POWERED_RAIL,27,minecraft:golden_rail,Powered Rail
+DETECTOR_RAIL,28,minecraft:detector_rail,Detector Rail
+PISTON_STICKY_BASE,29,minecraft:sticky_piston,Sticky Piston
+WEB,30,minecraft:web,Cobweb
+LONG_GRASS,31,minecraft:tallgrass,Grass
+DEAD_BUSH,32,minecraft:deadbush,Dead Bush
+PISTON_BASE,33,minecraft:piston,Piston
+PISTON_EXTENSION,34,minecraft:piston_head,Piston
+WOOL,35,minecraft:wool,Wool
+PISTON_MOVING_PIECE,36,minecraft:piston_extension,null
+YELLOW_FLOWER,37,minecraft:yellow_flower,Flower
+RED_ROSE,38,minecraft:red_flower,Flower
+BROWN_MUSHROOM,39,minecraft:brown_mushroom,Mushroom
+RED_MUSHROOM,40,minecraft:red_mushroom,Mushroom
+GOLD_BLOCK,41,minecraft:gold_block,Block of Gold
+IRON_BLOCK,42,minecraft:iron_block,Block of Iron
+DOUBLE_STEP,43,minecraft:double_stone_slab,Stone Slab
+STEP,44,minecraft:stone_slab,Stone Slab
+BRICK,45,minecraft:brick_block,Bricks
+TNT,46,minecraft:tnt,TNT
+BOOKSHELF,47,minecraft:bookshelf,Bookshelf
+MOSSY_COBBLESTONE,48,minecraft:mossy_cobblestone,Moss Stone
+OBSIDIAN,49,minecraft:obsidian,Obsidian
+TORCH,50,minecraft:torch,Torch
+FIRE,51,minecraft:fire,Fire
+MOB_SPAWNER,52,minecraft:mob_spawner,Monster Spawner
+WOOD_STAIRS,53,minecraft:oak_stairs,Oak Wood Stairs
+CHEST,54,minecraft:chest,Chest
+REDSTONE_WIRE,55,minecraft:redstone_wire,Redstone Dust
+DIAMOND_ORE,56,minecraft:diamond_ore,Diamond Ore
+DIAMOND_BLOCK,57,minecraft:diamond_block,Block of Diamond
+WORKBENCH,58,minecraft:crafting_table,Crafting Table
+CROPS,59,minecraft:wheat,Crops
+SOIL,60,minecraft:farmland,Farmland
+FURNACE,61,minecraft:furnace,Furnace
+BURNING_FURNACE,62,minecraft:lit_furnace,Furnace
+SIGN_POST,63,minecraft:standing_sign,Sign
+WOODEN_DOOR,64,minecraft:wooden_door,null
+LADDER,65,minecraft:ladder,Ladder
+RAILS,66,minecraft:rail,Rail
+COBBLESTONE_STAIRS,67,minecraft:stone_stairs,Cobblestone Stairs
+WALL_SIGN,68,minecraft:wall_sign,Sign
+LEVER,69,minecraft:lever,Lever
+STONE_PLATE,70,minecraft:stone_pressure_plate,Stone Pressure Plate
+IRON_DOOR_BLOCK,71,minecraft:iron_door,Iron Door
+WOOD_PLATE,72,minecraft:wooden_pressure_plate,Wooden Pressure Plate
+REDSTONE_ORE,73,minecraft:redstone_ore,Redstone Ore
+GLOWING_REDSTONE_ORE,74,minecraft:lit_redstone_ore,Redstone Ore
+REDSTONE_TORCH_OFF,75,minecraft:unlit_redstone_torch,Redstone Torch
+REDSTONE_TORCH_ON,76,minecraft:redstone_torch,Redstone Torch
+STONE_BUTTON,77,minecraft:stone_button,Button
+SNOW,78,minecraft:snow_layer,Snow
+ICE,79,minecraft:ice,Ice
+SNOW_BLOCK,80,minecraft:snow,Snow
+CACTUS,81,minecraft:cactus,Cactus
+CLAY,82,minecraft:clay,Clay
+SUGAR_CANE_BLOCK,83,minecraft:reeds,Sugar cane
+JUKEBOX,84,minecraft:jukebox,Jukebox
+FENCE,85,minecraft:fence,Oak Fence
+PUMPKIN,86,minecraft:pumpkin,Pumpkin
+NETHERRACK,87,minecraft:netherrack,Netherrack
+SOUL_SAND,88,minecraft:soul_sand,Soul Sand
+GLOWSTONE,89,minecraft:glowstone,Glowstone
+PORTAL,90,minecraft:portal,Portal
+JACK_O_LANTERN,91,minecraft:lit_pumpkin,Jack o'Lantern
+CAKE_BLOCK,92,minecraft:cake,Cake
+DIODE_BLOCK_OFF,93,minecraft:unpowered_repeater,null
+DIODE_BLOCK_ON,94,minecraft:powered_repeater,null
+STAINED_GLASS,95,minecraft:stained_glass,Stained Glass
+TRAP_DOOR,96,minecraft:trapdoor,Wooden Trapdoor
+MONSTER_EGGS,97,minecraft:monster_egg,Stone Monster Egg
+SMOOTH_BRICK,98,minecraft:stonebrick,Stone Bricks
+HUGE_MUSHROOM_1,99,minecraft:brown_mushroom_block,Mushroom
+HUGE_MUSHROOM_2,100,minecraft:red_mushroom_block,Mushroom
+IRON_FENCE,101,minecraft:iron_bars,Iron Bars
+THIN_GLASS,102,minecraft:glass_pane,Glass Pane
+MELON_BLOCK,103,minecraft:melon_block,Melon
+PUMPKIN_STEM,104,minecraft:pumpkin_stem,Pumpkin Stem
+MELON_STEM,105,minecraft:melon_stem,Pumpkin Stem
+VINE,106,minecraft:vine,Vines
+FENCE_GATE,107,minecraft:fence_gate,Oak Fence Gate
+BRICK_STAIRS,108,minecraft:brick_stairs,Brick Stairs
+SMOOTH_STAIRS,109,minecraft:stone_brick_stairs,Stone Brick Stairs
+MYCEL,110,minecraft:mycelium,Mycelium
+WATER_LILY,111,minecraft:waterlily,Lily Pad
+NETHER_BRICK,112,minecraft:nether_brick,Nether Brick
+NETHER_FENCE,113,minecraft:nether_brick_fence,Nether Brick Fence
+NETHER_BRICK_STAIRS,114,minecraft:nether_brick_stairs,Nether Brick Stairs
+NETHER_WARTS,115,minecraft:nether_wart,Nether Wart
+ENCHANTMENT_TABLE,116,minecraft:enchanting_table,Enchantment Table
+BREWING_STAND,117,minecraft:brewing_stand,null
+CAULDRON,118,minecraft:cauldron,Cauldron
+ENDER_PORTAL,119,minecraft:end_portal,null
+ENDER_PORTAL_FRAME,120,minecraft:end_portal_frame,End Portal
+ENDER_STONE,121,minecraft:end_stone,End Stone
+DRAGON_EGG,122,minecraft:dragon_egg,Dragon Egg
+REDSTONE_LAMP_OFF,123,minecraft:redstone_lamp,Redstone Lamp
+REDSTONE_LAMP_ON,124,minecraft:lit_redstone_lamp,Redstone Lamp
+WOOD_DOUBLE_STEP,125,minecraft:double_wooden_slab,Wood Slab
+WOOD_STEP,126,minecraft:wooden_slab,Wood Slab
+COCOA,127,minecraft:cocoa,Cocoa
+SANDSTONE_STAIRS,128,minecraft:sandstone_stairs,Sandstone Stairs
+EMERALD_ORE,129,minecraft:emerald_ore,Emerald Ore
+ENDER_CHEST,130,minecraft:ender_chest,Ender Chest
+TRIPWIRE_HOOK,131,minecraft:tripwire_hook,Tripwire Hook
+TRIPWIRE,132,minecraft:tripwire,Tripwire
+EMERALD_BLOCK,133,minecraft:emerald_block,Block of Emerald
+SPRUCE_WOOD_STAIRS,134,minecraft:spruce_stairs,Spruce Wood Stairs
+BIRCH_WOOD_STAIRS,135,minecraft:birch_stairs,Birch Wood Stairs
+JUNGLE_WOOD_STAIRS,136,minecraft:jungle_stairs,Jungle Wood Stairs
+COMMAND,137,minecraft:command_block,Command Block
+BEACON,138,minecraft:beacon,Beacon
+COBBLE_WALL,139,minecraft:cobblestone_wall,null
+FLOWER_POT,140,minecraft:flower_pot,null
+CARROT,141,minecraft:carrots,Carrots
+POTATO,142,minecraft:potatoes,Potatoes
+WOOD_BUTTON,143,minecraft:wooden_button,Button
+SKULL,144,minecraft:skull,null
+ANVIL,145,minecraft:anvil,Anvil
+TRAPPED_CHEST,146,minecraft:trapped_chest,Trapped Chest
+GOLD_PLATE,147,minecraft:light_weighted_pressure_plate,Weighted Pressure Plate (Light)
+IRON_PLATE,148,minecraft:heavy_weighted_pressure_plate,Weighted Pressure Plate (Heavy)
+REDSTONE_COMPARATOR_OFF,149,minecraft:unpowered_comparator,null
+REDSTONE_COMPARATOR_ON,150,minecraft:powered_comparator,null
+DAYLIGHT_DETECTOR,151,minecraft:daylight_detector,null
+REDSTONE_BLOCK,152,minecraft:redstone_block,Block of Redstone
+QUARTZ_ORE,153,minecraft:quartz_ore,Nether Quartz Ore
+HOPPER,154,minecraft:hopper,Hopper
+QUARTZ_BLOCK,155,minecraft:quartz_block,Block of Quartz
+QUARTZ_STAIRS,156,minecraft:quartz_stairs,Quartz Stairs
+ACTIVATOR_RAIL,157,minecraft:activator_rail,Activator Rail
+DROPPER,158,minecraft:dropper,Dropper
+STAINED_CLAY,159,minecraft:stained_hardened_clay,Stained Hardened Clay
+STAINED_GLASS_PANE,160,minecraft:stained_glass_pane,Stained Glass Pane
+LEAVES_2,161,minecraft:leaves2,Leaves
+LOG_2,162,minecraft:log2,Wood
+ACACIA_STAIRS,163,minecraft:acacia_stairs,Acacia Wood Stairs
+DARK_OAK_STAIRS,164,minecraft:dark_oak_stairs,Dark Oak Wood Stairs
+SLIME_BLOCK,165,minecraft:slime,Slime Block
+BARRIER,166,minecraft:barrier,Barrier
+IRON_TRAPDOOR,167,minecraft:iron_trapdoor,Iron Trapdoor
+PRISMARINE,168,minecraft:prismarine,null
+SEA_LANTERN,169,minecraft:sea_lantern,Sea Lantern
+HAY_BLOCK,170,minecraft:hay_block,Hay Bale
+CARPET,171,minecraft:carpet,Carpet
+HARD_CLAY,172,minecraft:hardened_clay,Hardened Clay
+COAL_BLOCK,173,minecraft:coal_block,Block of Coal
+PACKED_ICE,174,minecraft:packed_ice,Packed Ice
+DOUBLE_PLANT,175,minecraft:double_plant,null
+STANDING_BANNER,176,minecraft:standing_banner,null
+WALL_BANNER,177,minecraft:wall_banner,null
+DAYLIGHT_DETECTOR_INVERTED,178,minecraft:daylight_detector_inverted,null
+RED_SANDSTONE,179,minecraft:red_sandstone,Red Sandstone
+RED_SANDSTONE_STAIRS,180,minecraft:red_sandstone_stairs,Red Sandstone Stairs
+DOUBLE_STONE_SLAB2,181,minecraft:double_stone_slab2,null
+STONE_SLAB2,182,minecraft:stone_slab2,null
+SPRUCE_FENCE_GATE,183,minecraft:spruce_fence_gate,Spruce Fence Gate
+BIRCH_FENCE_GATE,184,minecraft:birch_fence_gate,Birch Fence Gate
+JUNGLE_FENCE_GATE,185,minecraft:jungle_fence_gate,Jungle Fence Gate
+DARK_OAK_FENCE_GATE,186,minecraft:dark_oak_fence_gate,Dark Oak Fence Gate
+ACACIA_FENCE_GATE,187,minecraft:acacia_fence_gate,Acacia Fence Gate
+SPRUCE_FENCE,188,minecraft:spruce_fence,Spruce Fence
+BIRCH_FENCE,189,minecraft:birch_fence,Birch Fence
+JUNGLE_FENCE,190,minecraft:jungle_fence,Jungle Fence
+DARK_OAK_FENCE,191,minecraft:dark_oak_fence,Dark Oak Fence
+ACACIA_FENCE,192,minecraft:acacia_fence,Acacia Fence
+SPRUCE_DOOR,193,minecraft:spruce_door,null
+BIRCH_DOOR,194,minecraft:birch_door,null
+JUNGLE_DOOR,195,minecraft:jungle_door,null
+ACACIA_DOOR,196,minecraft:acacia_door,null
+DARK_OAK_DOOR,197,minecraft:dark_oak_door,null
+END_ROD,198,minecraft:end_rod,End Rod
+CHORUS_PLANT,199,minecraft:chorus_plant,Chorus Plant
+CHORUS_FLOWER,200,minecraft:chorus_flower,Chorus Flower
+PURPUR_BLOCK,201,minecraft:purpur_block,Purpur Block
+PURPUR_PILLAR,202,minecraft:purpur_pillar,Purpur Pillar
+PURPUR_STAIRS,203,minecraft:purpur_stairs,Purpur Stairs
+PURPUR_DOUBLE_SLAB,204,minecraft:purpur_double_slab,Purpur Slab
+PURPUR_SLAB,205,minecraft:purpur_slab,Purpur Slab
+END_BRICKS,206,minecraft:end_bricks,End Stone Bricks
+BEETROOT_BLOCK,207,minecraft:beetroots,Beetroots
+GRASS_PATH,208,minecraft:grass_path,Grass Path
+END_GATEWAY,209,minecraft:end_gateway,null
+COMMAND_REPEATING,210,minecraft:repeating_command_block,Repeating Command Block
+COMMAND_CHAIN,211,minecraft:chain_command_block,Chain Command Block
+FROSTED_ICE,212,minecraft:frosted_ice,Frosted Ice
+MAGMA,213,minecraft:magma,Magma Block
+NETHER_WART_BLOCK,214,minecraft:nether_wart_block,Nether Wart Block
+RED_NETHER_BRICK,215,minecraft:red_nether_brick,Red Nether Brick
+BONE_BLOCK,216,minecraft:bone_block,Bone Block
+STRUCTURE_VOID,217,minecraft:structure_void,Structure Void
+OBSERVER,218,minecraft:observer,Observer
+WHITE_SHULKER_BOX,219,minecraft:white_shulker_box,White Shulker Box
+ORANGE_SHULKER_BOX,220,minecraft:orange_shulker_box,Orange Shulker Box
+MAGENTA_SHULKER_BOX,221,minecraft:magenta_shulker_box,Magenta Shulker Box
+LIGHT_BLUE_SHULKER_BOX,222,minecraft:light_blue_shulker_box,Light Blue Shulker Box
+YELLOW_SHULKER_BOX,223,minecraft:yellow_shulker_box,Yellow Shulker Box
+LIME_SHULKER_BOX,224,minecraft:lime_shulker_box,Lime Shulker Box
+PINK_SHULKER_BOX,225,minecraft:pink_shulker_box,Pink Shulker Box
+GRAY_SHULKER_BOX,226,minecraft:gray_shulker_box,Gray Shulker Box
+SILVER_SHULKER_BOX,227,minecraft:silver_shulker_box,Light Gray Shulker Box
+CYAN_SHULKER_BOX,228,minecraft:cyan_shulker_box,Cyan Shulker Box
+PURPLE_SHULKER_BOX,229,minecraft:purple_shulker_box,Purple Shulker Box
+BLUE_SHULKER_BOX,230,minecraft:blue_shulker_box,Blue Shulker Box
+BROWN_SHULKER_BOX,231,minecraft:brown_shulker_box,Brown Shulker Box
+GREEN_SHULKER_BOX,232,minecraft:green_shulker_box,Green Shulker Box
+RED_SHULKER_BOX,233,minecraft:red_shulker_box,Red Shulker Box
+BLACK_SHULKER_BOX,234,minecraft:black_shulker_box,Black Shulker Box
+WHITE_GLAZED_TERRACOTTA,235,minecraft:white_glazed_terracotta,null
+ORANGE_GLAZED_TERRACOTTA,236,minecraft:orange_glazed_terracotta,null
+MAGENTA_GLAZED_TERRACOTTA,237,minecraft:magenta_glazed_terracotta,null
+LIGHT_BLUE_GLAZED_TERRACOTTA,238,minecraft:light_blue_glazed_terracotta,null
+YELLOW_GLAZED_TERRACOTTA,239,minecraft:yellow_glazed_terracotta,null
+LIME_GLAZED_TERRACOTTA,240,minecraft:lime_glazed_terracotta,null
+PINK_GLAZED_TERRACOTTA,241,minecraft:pink_glazed_terracotta,null
+GRAY_GLAZED_TERRACOTTA,242,minecraft:gray_glazed_terracotta,null
+SILVER_GLAZED_TERRACOTTA,243,minecraft:silver_glazed_terracotta,null
+CYAN_GLAZED_TERRACOTTA,244,minecraft:cyan_glazed_terracotta,null
+PURPLE_GLAZED_TERRACOTTA,245,minecraft:purple_glazed_terracotta,null
+BLUE_GLAZED_TERRACOTTA,246,minecraft:blue_glazed_terracotta,null
+BROWN_GLAZED_TERRACOTTA,247,minecraft:brown_glazed_terracotta,null
+GREEN_GLAZED_TERRACOTTA,248,minecraft:green_glazed_terracotta,null
+RED_GLAZED_TERRACOTTA,249,minecraft:red_glazed_terracotta,null
+BLACK_GLAZED_TERRACOTTA,250,minecraft:black_glazed_terracotta,null
+CONCRETE,251,minecraft:concrete,null
+CONCRETE_POWDER,252,minecraft:concrete_powder,null
+STRUCTURE_BLOCK,255,minecraft:structure_block,Structure Block
+IRON_SPADE,256,minecraft:iron_shovel,Iron Shovel
+IRON_PICKAXE,257,minecraft:iron_pickaxe,Iron Pickaxe
+IRON_AXE,258,minecraft:iron_axe,Iron Axe
+FLINT_AND_STEEL,259,minecraft:flint_and_steel,Flint and Steel
+APPLE,260,minecraft:apple,Apple
+BOW,261,minecraft:bow,Bow
+ARROW,262,minecraft:arrow,Arrow
+COAL,263,minecraft:coal,Coal
+DIAMOND,264,minecraft:diamond,Diamond
+IRON_INGOT,265,minecraft:iron_ingot,Iron Ingot
+GOLD_INGOT,266,minecraft:gold_ingot,Gold Ingot
+IRON_SWORD,267,minecraft:iron_sword,Iron Sword
+WOOD_SWORD,268,minecraft:wooden_sword,Wooden Sword
+WOOD_SPADE,269,minecraft:wooden_shovel,Wooden Shovel
+WOOD_PICKAXE,270,minecraft:wooden_pickaxe,Wooden Pickaxe
+WOOD_AXE,271,minecraft:wooden_axe,Wooden Axe
+STONE_SWORD,272,minecraft:stone_sword,Stone Sword
+STONE_SPADE,273,minecraft:stone_shovel,Stone Shovel
+STONE_PICKAXE,274,minecraft:stone_pickaxe,Stone Pickaxe
+STONE_AXE,275,minecraft:stone_axe,Stone Axe
+DIAMOND_SWORD,276,minecraft:diamond_sword,Diamond Sword
+DIAMOND_SPADE,277,minecraft:diamond_shovel,Diamond Shovel
+DIAMOND_PICKAXE,278,minecraft:diamond_pickaxe,Diamond Pickaxe
+DIAMOND_AXE,279,minecraft:diamond_axe,Diamond Axe
+STICK,280,minecraft:stick,Stick
+BOWL,281,minecraft:bowl,Bowl
+MUSHROOM_SOUP,282,minecraft:mushroom_stew,Mushroom Stew
+GOLD_SWORD,283,minecraft:golden_sword,Golden Sword
+GOLD_SPADE,284,minecraft:golden_shovel,Golden Shovel
+GOLD_PICKAXE,285,minecraft:golden_pickaxe,Golden Pickaxe
+GOLD_AXE,286,minecraft:golden_axe,Golden Axe
+STRING,287,minecraft:string,String
+FEATHER,288,minecraft:feather,Feather
+SULPHUR,289,minecraft:gunpowder,Gunpowder
+WOOD_HOE,290,minecraft:wooden_hoe,Wooden Hoe
+STONE_HOE,291,minecraft:stone_hoe,Stone Hoe
+IRON_HOE,292,minecraft:iron_hoe,Iron Hoe
+DIAMOND_HOE,293,minecraft:diamond_hoe,Diamond Hoe
+GOLD_HOE,294,minecraft:golden_hoe,Golden Hoe
+SEEDS,295,minecraft:wheat_seeds,Seeds
+WHEAT,296,minecraft:wheat,Wheat
+BREAD,297,minecraft:bread,Bread
+LEATHER_HELMET,298,minecraft:leather_helmet,Leather Cap
+LEATHER_CHESTPLATE,299,minecraft:leather_chestplate,Leather Tunic
+LEATHER_LEGGINGS,300,minecraft:leather_leggings,Leather Pants
+LEATHER_BOOTS,301,minecraft:leather_boots,Leather Boots
+CHAINMAIL_HELMET,302,minecraft:chainmail_helmet,Chain Helmet
+CHAINMAIL_CHESTPLATE,303,minecraft:chainmail_chestplate,Chain Chestplate
+CHAINMAIL_LEGGINGS,304,minecraft:chainmail_leggings,Chain Leggings
+CHAINMAIL_BOOTS,305,minecraft:chainmail_boots,Chain Boots
+IRON_HELMET,306,minecraft:iron_helmet,Iron Helmet
+IRON_CHESTPLATE,307,minecraft:iron_chestplate,Iron Chestplate
+IRON_LEGGINGS,308,minecraft:iron_leggings,Iron Leggings
+IRON_BOOTS,309,minecraft:iron_boots,Iron Boots
+DIAMOND_HELMET,310,minecraft:diamond_helmet,Diamond Helmet
+DIAMOND_CHESTPLATE,311,minecraft:diamond_chestplate,Diamond Chestplate
+DIAMOND_LEGGINGS,312,minecraft:diamond_leggings,Diamond Leggings
+DIAMOND_BOOTS,313,minecraft:diamond_boots,Diamond Boots
+GOLD_HELMET,314,minecraft:golden_helmet,Golden Helmet
+GOLD_CHESTPLATE,315,minecraft:golden_chestplate,Golden Chestplate
+GOLD_LEGGINGS,316,minecraft:golden_leggings,Golden Leggings
+GOLD_BOOTS,317,minecraft:golden_boots,Golden Boots
+FLINT,318,minecraft:flint,Flint
+PORK,319,minecraft:porkchop,Raw Porkchop
+GRILLED_PORK,320,minecraft:cooked_porkchop,Cooked Porkchop
+PAINTING,321,minecraft:painting,Painting
+GOLDEN_APPLE,322,minecraft:golden_apple,Golden Apple
+SIGN,323,minecraft:sign,Sign
+WOOD_DOOR,324,minecraft:wooden_door,Oak Door
+BUCKET,325,minecraft:bucket,Bucket
+WATER_BUCKET,326,minecraft:water_bucket,Water Bucket
+LAVA_BUCKET,327,minecraft:lava_bucket,Lava Bucket
+MINECART,328,minecraft:minecart,Minecart
+SADDLE,329,minecraft:saddle,Saddle
+IRON_DOOR,330,minecraft:iron_door,Iron Door
+REDSTONE,331,minecraft:redstone,Redstone
+SNOW_BALL,332,minecraft:snowball,Snowball
+BOAT,333,minecraft:boat,null
+LEATHER,334,minecraft:leather,Leather
+MILK_BUCKET,335,minecraft:milk_bucket,Milk
+CLAY_BRICK,336,minecraft:brick,Brick
+CLAY_BALL,337,minecraft:clay_ball,Clay
+SUGAR_CANE,338,minecraft:reeds,Sugar Canes
+PAPER,339,minecraft:paper,Paper
+BOOK,340,minecraft:book,Book
+SLIME_BALL,341,minecraft:slime_ball,Slimeball
+STORAGE_MINECART,342,minecraft:chest_minecart,Minecart with Chest
+POWERED_MINECART,343,minecraft:furnace_minecart,Minecart with Furnace
+EGG,344,minecraft:egg,Egg
+COMPASS,345,minecraft:compass,Compass
+FISHING_ROD,346,minecraft:fishing_rod,Fishing Rod
+WATCH,347,minecraft:clock,Clock
+GLOWSTONE_DUST,348,minecraft:glowstone_dust,Glowstone Dust
+RAW_FISH,349,minecraft:fish,null
+COOKED_FISH,350,minecraft:cooked_fish,null
+INK_SACK,351,minecraft:dye,null
+BONE,352,minecraft:bone,Bone
+SUGAR,353,minecraft:sugar,Sugar
+CAKE,354,minecraft:cake,Cake
+BED,355,minecraft:bed,null
+DIODE,356,minecraft:repeater,Redstone Repeater
+COOKIE,357,minecraft:cookie,Cookie
+MAP,358,minecraft:filled_map,Map
+SHEARS,359,minecraft:shears,Shears
+MELON,360,minecraft:melon,Melon
+PUMPKIN_SEEDS,361,minecraft:pumpkin_seeds,Pumpkin Seeds
+MELON_SEEDS,362,minecraft:melon_seeds,Melon Seeds
+RAW_BEEF,363,minecraft:beef,Raw Beef
+COOKED_BEEF,364,minecraft:cooked_beef,Steak
+RAW_CHICKEN,365,minecraft:chicken,Raw Chicken
+COOKED_CHICKEN,366,minecraft:cooked_chicken,Cooked Chicken
+ROTTEN_FLESH,367,minecraft:rotten_flesh,Rotten Flesh
+ENDER_PEARL,368,minecraft:ender_pearl,Ender Pearl
+BLAZE_ROD,369,minecraft:blaze_rod,Blaze Rod
+GHAST_TEAR,370,minecraft:ghast_tear,Ghast Tear
+GOLD_NUGGET,371,minecraft:gold_nugget,Gold Nugget
+NETHER_STALK,372,minecraft:nether_wart,Nether Wart
+POTION,373,minecraft:potion,Potion
+GLASS_BOTTLE,374,minecraft:glass_bottle,Glass Bottle
+SPIDER_EYE,375,minecraft:spider_eye,Spider Eye
+FERMENTED_SPIDER_EYE,376,minecraft:fermented_spider_eye,Fermented Spider Eye
+BLAZE_POWDER,377,minecraft:blaze_powder,Blaze Powder
+MAGMA_CREAM,378,minecraft:magma_cream,Magma Cream
+BREWING_STAND_ITEM,379,minecraft:brewing_stand,Brewing Stand
+CAULDRON_ITEM,380,minecraft:cauldron,Cauldron
+EYE_OF_ENDER,381,minecraft:ender_eye,Eye of Ender
+SPECKLED_MELON,382,minecraft:speckled_melon,Glistering Melon
+MONSTER_EGG,383,minecraft:spawn_egg,Spawn
+EXP_BOTTLE,384,minecraft:experience_bottle,Bottle o' Enchanting
+FIREBALL,385,minecraft:fire_charge,Fire Charge
+BOOK_AND_QUILL,386,minecraft:writable_book,Book and Quill
+WRITTEN_BOOK,387,minecraft:written_book,Written Book
+EMERALD,388,minecraft:emerald,Emerald
+ITEM_FRAME,389,minecraft:item_frame,Item Frame
+FLOWER_POT_ITEM,390,minecraft:flower_pot,Flower Pot
+CARROT_ITEM,391,minecraft:carrot,Carrot
+POTATO_ITEM,392,minecraft:potato,Potato
+BAKED_POTATO,393,minecraft:baked_potato,Baked Potato
+POISONOUS_POTATO,394,minecraft:poisonous_potato,Poisonous Potato
+EMPTY_MAP,395,minecraft:map,Empty Map
+GOLDEN_CARROT,396,minecraft:golden_carrot,Golden Carrot
+SKULL_ITEM,397,minecraft:skull,null
+CARROT_STICK,398,minecraft:carrot_on_a_stick,Carrot on a Stick
+NETHER_STAR,399,minecraft:nether_star,Nether Star
+PUMPKIN_PIE,400,minecraft:pumpkin_pie,Pumpkin Pie
+FIREWORK,401,minecraft:fireworks,Firework Rocket
+FIREWORK_CHARGE,402,minecraft:firework_charge,Firework Star
+ENCHANTED_BOOK,403,minecraft:enchanted_book,Enchanted Book
+REDSTONE_COMPARATOR,404,minecraft:comparator,Redstone Comparator
+NETHER_BRICK_ITEM,405,minecraft:netherbrick,Nether Brick
+QUARTZ,406,minecraft:quartz,Nether Quartz
+EXPLOSIVE_MINECART,407,minecraft:tnt_minecart,Minecart with TNT
+HOPPER_MINECART,408,minecraft:hopper_minecart,Minecart with Hopper
+PRISMARINE_SHARD,409,minecraft:prismarine_shard,Prismarine Shard
+PRISMARINE_CRYSTALS,410,minecraft:prismarine_crystals,Prismarine Crystals
+RABBIT,411,minecraft:rabbit,Raw Rabbit
+COOKED_RABBIT,412,minecraft:cooked_rabbit,Cooked Rabbit
+RABBIT_STEW,413,minecraft:rabbit_stew,Rabbit Stew
+RABBIT_FOOT,414,minecraft:rabbit_foot,Rabbit's Foot
+RABBIT_HIDE,415,minecraft:rabbit_hide,Rabbit Hide
+ARMOR_STAND,416,minecraft:armor_stand,Armor Stand
+IRON_BARDING,417,minecraft:iron_horse_armor,Iron Horse Armor
+GOLD_BARDING,418,minecraft:golden_horse_armor,Gold Horse Armor
+DIAMOND_BARDING,419,minecraft:diamond_horse_armor,Diamond Horse Armor
+LEASH,420,minecraft:lead,Lead
+NAME_TAG,421,minecraft:name_tag,Name Tag
+COMMAND_MINECART,422,minecraft:command_block_minecart,Minecart with Command Block
+MUTTON,423,minecraft:mutton,Raw Mutton
+COOKED_MUTTON,424,minecraft:cooked_mutton,Cooked Mutton
+BANNER,425,minecraft:banner,null
+END_CRYSTAL,426,minecraft:end_crystal,null
+SPRUCE_DOOR_ITEM,427,minecraft:spruce_door,Spruce Door
+BIRCH_DOOR_ITEM,428,minecraft:birch_door,Birch Door
+JUNGLE_DOOR_ITEM,429,minecraft:jungle_door,Jungle Door
+ACACIA_DOOR_ITEM,430,minecraft:acacia_door,Acacia Door
+DARK_OAK_DOOR_ITEM,431,minecraft:dark_oak_door,Dark Oak Door
+CHORUS_FRUIT,432,minecraft:chorus_fruit,Chorus Fruit
+CHORUS_FRUIT_POPPED,433,minecraft:chorus_fruit_popped,Popped Chorus Fruit
+BEETROOT,434,minecraft:beetroot,Beetroot
+BEETROOT_SEEDS,435,minecraft:beetroot_seeds,Beetroot Seeds
+BEETROOT_SOUP,436,minecraft:beetroot_soup,Beetroot Soup
+DRAGONS_BREATH,437,minecraft:dragon_breath,Dragon's Breath
+SPLASH_POTION,438,minecraft:splash_potion,Splash Potion
+SPECTRAL_ARROW,439,minecraft:spectral_arrow,Spectral Arrow
+TIPPED_ARROW,440,minecraft:tipped_arrow,Tipped Arrow
+LINGERING_POTION,441,minecraft:lingering_potion,Lingering Potion
+SHIELD,442,minecraft:shield,Shield
+ELYTRA,443,minecraft:elytra,Elytra
+BOAT_SPRUCE,444,minecraft:spruce_boat,null
+BOAT_BIRCH,445,minecraft:birch_boat,null
+BOAT_JUNGLE,446,minecraft:jungle_boat,null
+BOAT_ACACIA,447,minecraft:acacia_boat,null
+BOAT_DARK_OAK,448,minecraft:dark_oak_boat,null
+TOTEM,449,minecraft:totem_of_undying,Totem of Undying
+SHULKER_SHELL,450,minecraft:shulker_shell,Shulker Shell
+IRON_NUGGET,452,minecraft:iron_nugget,Iron Nugget
+KNOWLEDGE_BOOK,453,minecraft:knowledge_book,Knowledge Book
+GOLD_RECORD,2256,minecraft:record_13,Music Disc
+GREEN_RECORD,2257,minecraft:record_cat,Music Disc
+RECORD_3,2258,minecraft:record_blocks,Music Disc
+RECORD_4,2259,minecraft:record_chirp,Music Disc
+RECORD_5,2260,minecraft:record_far,Music Disc
+RECORD_6,2261,minecraft:record_mall,Music Disc
+RECORD_7,2262,minecraft:record_mellohi,Music Disc
+RECORD_8,2263,minecraft:record_stal,Music Disc
+RECORD_9,2264,minecraft:record_strad,Music Disc
+RECORD_10,2265,minecraft:record_ward,Music Disc
+RECORD_11,2266,minecraft:record_11,Music Disc
+RECORD_12,2267,minecraft:record_wait,Music Disc
